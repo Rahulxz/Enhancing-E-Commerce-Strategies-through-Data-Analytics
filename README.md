@@ -52,3 +52,8 @@ Segmented customers to develop a targeted loyalty program for high-value custome
 
 Impact
 This project successfully demonstrated the power of business intelligence in transforming data into a strategic asset. The final dashboard provides the business with a single source of truth for performance monitoring and empowers stakeholders to make informed decisions quickly and confidently, ultimately contributing to increased revenue and operational efficiency.
+
+Dashboard Overview 
+
+<img width="406" height="456" alt="image" src="https://github.com/user-attachments/assets/70368214-1f00-435b-8e62-047a4dcab32c" />
+
