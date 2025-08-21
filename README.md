@@ -56,17 +56,15 @@ This project successfully demonstrated the power of business intelligence in tra
 Dashboard Overview 
 
 <img width="406" height="456" alt="image" src="https://github.com/user-attachments/assets/70368214-1f00-435b-8e62-047a4dcab32c" />
-fig.1
 
 
 
 
 <img width="824" height="505" alt="image" src="https://github.com/user-attachments/assets/90796e84-f3ac-4afe-963d-e8cef61c68d0" />
-fig.2
 
 
 
 
 <img width="815" height="499" alt="image" src="https://github.com/user-attachments/assets/055ef6cc-41f1-431f-9da7-762b6edd8af6" />
-fig.3
+
 
