@@ -57,3 +57,5 @@ Dashboard Overview
 
 <img width="406" height="456" alt="image" src="https://github.com/user-attachments/assets/70368214-1f00-435b-8e62-047a4dcab32c" />
 
+<img width="824" height="505" alt="image" src="https://github.com/user-attachments/assets/90796e84-f3ac-4afe-963d-e8cef61c68d0" />
+
